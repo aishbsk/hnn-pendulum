@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Test cache
+.pytest_cache/
+
+# Environment
+.env
+.venv
+env/
+venv/
+
+# IDE files
+.DS_Store
+.vscode/
+
+# Project specific
+data/*.npz
+reports/*.png
